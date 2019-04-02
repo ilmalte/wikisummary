@@ -1,0 +1,24 @@
+{
+  "name": "wikisummary",
+  "version": "1.0.0",
+  "description": "send a word and receive a wiki summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ilmalte/wikisummary.git"
+  },
+  "author": "Malte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilmalte/wikisummary/issues"
+  },
+  "homepage": "https://github.com/ilmalte/wikisummary#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "telegraf": "^3.28.0"
+  },
+  "devDependencies": {}
+}
